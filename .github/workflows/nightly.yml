@@ -1,0 +1,28 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      - name: Run a multi-line script
+        run: |
+          cd omnifactory-zh_cn
+          zip -r omnifactory-zh_cn-$(date +%Y%m%d-%H%M).zip .
+          
+      - name: "Upload artifact"
+        uses: actions/upload-artifact@v2
+        with:
+          name: artifact
+          path: |
+            omnifactory-zh_cn/omnifactory-zh_cn-*.zip
