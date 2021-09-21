@@ -126,7 +126,7 @@ item.contenttweaker.endstonedust.name=末地石粉
 item.contenttweaker.lapisarmorplate.name=重青金石板
 item.contenttweaker.carbonarmorplate.name=重碳板
 item.contenttweaker.redstonearmorplate.name=重红石板
-item.contenttweaker.block_dust.name=尘土
+tile.contenttweaker.block_dust.name=尘土块
 item.contenttweaker.blazepowder.name=烈焰粉
 item.contenttweaker.grainsofinnocence.name=纯真之尘
 
@@ -230,5 +230,5 @@ item.contenttweaker.hand_framing_tool.desc4=Then, once the tool is framed, right
 item.contenttweaker.hand_framing_tool.desc5=Optionally, the tool can be filled with sticks using the crafting table recipe. Up to a stack of sticks will be consumed from each slot.
 item.contenttweaker.hand_framing_tool.desc6=The tool can then be used to convert existing unframed drawers into framed drawers, consuming 8 sticks to do so.
 
-item.contenttweaker.pulsatingdust.name=Pulsating Dust
-item.contenttweaker.pulsatingmesh.name=Pulsating Mesh
+item.contenttweaker.pulsatingdust.name=脉动之尘
+item.contenttweaker.pulsatingmesh.name=脉动网格
