@@ -63,7 +63,7 @@ item.contenttweaker.refinedprocessormainframe.name=精制处理器主机
 item.contenttweaker.crystalcircuit.name=晶体电路
 item.contenttweaker.crystalprocessorarray.name=晶体处理器阵列
 item.contenttweaker.crystalprocessormainframe.name=晶体处理器主机
-item.contenttweaker.quantumprocessor.name=量子电路
+item.contenttweaker.quantumprocessor.name=量子处理器
 item.contenttweaker.quantumprocessorarray.name=量子处理器阵列
 item.contenttweaker.quantumprocessormainframe.name=量子处理器主机
 item.contenttweaker.nanoprocessorarray.name=纳米处理器阵列
@@ -213,8 +213,8 @@ item.contenttweaker.stellarcreationdata.name=恒星创造数据
 item.contenttweaker.densehydrogen.name=富集氢
 item.contenttweaker.ultradensehydrogen.name=超富集氢
 
-tile.contenttweaker.microverse_casing.name=Microverse Projector Casing
-tile.contenttweaker.microverse_vent.name=Microverse Projector Vent
+tile.contenttweaker.microverse_casing.name=微型宇宙投影仪外壳
+tile.contenttweaker.microverse_vent.name=微型宇宙投影仪通风口
 
 item.contenttweaker.eightsmore.name=EightS'more OctoS'mingot
 item.contenttweaker.sixteensmore.name=SixteenS'more HexadecaS'mingot
