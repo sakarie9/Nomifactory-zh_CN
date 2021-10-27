@@ -1,0 +1,36 @@
+name: Release
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      
+      - uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: "Asia/Shanghai"
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Run a multi-line script
+        run: |
+          cd omnifactory-zh_cn
+          sed -e "s/\$DATE/$(date +%Y%m%d)/" pack.mcmeta
+          zip -r omnifactory-zh_cn.zip .
+            
+      - name: "Upload releases"
+        uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: false
+          title:  "${{ steps.date.outputs.date }}"
+          files: |
+            omnifactory-zh_cn/omnifactory-zh_cn.zip
