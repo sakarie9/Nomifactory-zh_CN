@@ -21,13 +21,13 @@ jobs:
 
       - name: Run a multi-line script
         run: |
-          cd omnifactory-zh_cn
+          cd nomifactory-zh_cn
           sed -e "s/\$DATE/$(date +%Y%m%d-%H%M)/" pack.mcmeta
-          zip -r omnifactory-zh_cn-$(date +%Y%m%d-%H%M).zip .
+          zip -r nomifactory-zh_cn-$(date +%Y%m%d-%H%M).zip .
           
       - name: "Upload artifact"
         uses: actions/upload-artifact@v2
         with:
           name: artifact
           path: |
-            omnifactory-zh_cn/omnifactory-zh_cn-*.zip
+            nomifactory-zh_cn/nomifactory-zh_cn-*.zip

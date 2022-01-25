@@ -12,7 +12,6 @@ material.ardite=阿迪特
 material.manyullyn=玛玉灵
 material.omnium=万象
 material.draconium=龙素
-material.microversium=Microversium
 
 item.contenttweaker.omnicoin.name=万象币[1]
 item.contenttweaker.omnicoin5.name=万象币[5]
@@ -213,25 +212,16 @@ item.contenttweaker.stellarcreationdata.name=恒星创造数据
 item.contenttweaker.densehydrogen.name=富集氢
 item.contenttweaker.ultradensehydrogen.name=超富集氢
 
-tile.contenttweaker.microverse_casing.name=微型宇宙投影仪外壳
-tile.contenttweaker.microverse_vent.name=微型宇宙投影仪通风口
 
-item.contenttweaker.eightsmore.name=EightS'more OctoS'mingot
-item.contenttweaker.sixteensmore.name=SixteenS'more HexadecaS'mingot
-item.contenttweaker.thirtytwosmore.name=Half-stack-o'-S'more TriacontadyoS'mingot
-item.contenttweaker.sixtyfoursmore.name=Stack-o'-S'more HexecontatessaraS'mingot
 
-item.contenttweaker.hand_framing_tool.name=Hand Framing Tool
 
-item.contenttweaker.hand_framing_tool.desc1=Frame your tools by hand!
-item.contenttweaker.hand_framing_tool.desc2=The Hand Framing Tool lets you frame drawers already placed in the world.
-item.contenttweaker.hand_framing_tool.desc3=To do this, the tool itself needs to be framed in a crafting table. See the item's crafting table recipes in JEI.
-item.contenttweaker.hand_framing_tool.desc4=Then, once the tool is framed, right clicking any drawers in-world will frame them.
-item.contenttweaker.hand_framing_tool.desc5=Optionally, the tool can be filled with sticks using the crafting table recipe. Up to a stack of sticks will be consumed from each slot.
-item.contenttweaker.hand_framing_tool.desc6=The tool can then be used to convert existing unframed drawers into framed drawers, consuming 8 sticks to do so.
 
-item.contenttweaker.pulsatingdust.name=脉动之尘
-item.contenttweaker.pulsatingmesh.name=脉动网格
 
-tile.contenttweaker.simulation_casing.name=Naquadah-Plated Dark Steel Machine Casing
-tile.contenttweaker.simulation_casing_2.name=Naquadah Machine Casing
+
+
+
+
+
+
+
+

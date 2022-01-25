@@ -1,12 +1,15 @@
-# Omnifactory-zh_cn
-Omnifactory 的汉化资源包
+# Nomifactory-zh_cn
 
-## 安装dev
-下载  [`omnifactory-dev-xxxxxxx-client.zip`](https://nightly.link/OmnifactoryDevs/Omnifactory/workflows/nightly/dev)
+[Nomifactory](https://github.com/Nomifactory/Nomifactory) 的汉化资源包
+
+## 安装
+
+下载  [`nomifactory-vX.X.X-redux-client.zip`](https://github.com/Nomifactory/Nomifactory/releases)
 
 导入 multimc 等启动器安装
 
 ## 汉化
-下载  [`omnifactory-zh_cn.zip`](https://github.com/xzsk2/Omnifactory-zh_cn/releases)
+
+下载  [`nomifactory-zh_cn.zip`](https://github.com/xzsk2/Nomifactory-zh_cn/releases)
 
 放入资源包文件夹并加载

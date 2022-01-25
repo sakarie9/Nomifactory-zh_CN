@@ -21,9 +21,9 @@ jobs:
 
       - name: Run a multi-line script
         run: |
-          cd omnifactory-zh_cn
+          cd nomifactory-zh_cn
           sed -e "s/\$DATE/$(date +%Y%m%d)/" pack.mcmeta
-          zip -r omnifactory-zh_cn.zip .
+          zip -r nomifactory-zh_cn.zip .
             
       - name: "Upload releases"
         uses: "marvinpinto/action-automatic-releases@latest"
@@ -33,4 +33,4 @@ jobs:
           prerelease: false
           title:  "${{ steps.date.outputs.date }}"
           files: |
-            omnifactory-zh_cn/omnifactory-zh_cn.zip
+            nomifactory-zh_cn/nomifactory-zh_cn.zip

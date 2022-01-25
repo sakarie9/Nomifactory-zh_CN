@@ -12,7 +12,6 @@ material.ardite=Ardite
 material.manyullyn=Manyullyn
 material.omnium=Omnium
 material.draconium=Draconium
-material.microversium=Microversium
 
 item.contenttweaker.omnicoin.name=Omnipenny [1]
 item.contenttweaker.omnicoin5.name=Omninickel [5]
@@ -85,10 +84,10 @@ item.contenttweaker.tiertenship.name=Neutronium Plated Micro Universe Harvester 
 item.contenttweaker.moondust.name=Moon Dust
 item.contenttweaker.quantumflux.name=Quantum Flux
 
-item.contenttweaker.t1guidance.name=Basic Micro Miner Guidance System
+item.contenttweaker.t1guidance.name=Basic Microminer Guidance System
 item.contenttweaker.t1laser.name=Basic Mining Laser
 item.contenttweaker.t2laser.name=Reinforced Mining Laser
-item.contenttweaker.t2guidance.name=Advanced Micro Miner Guidance System
+item.contenttweaker.t2guidance.name=Advanced Microminer Guidance System
 item.contenttweaker.t3engine.name=Supercharged Thruster Jet
 item.contenttweaker.t3laser.name=Supercharged Laser Array
 
@@ -106,7 +105,7 @@ item.contenttweaker.neutroniumplating.name= Neutronium Heavy Plating
 item.contenttweaker.heartofauniverse.name=Heart Of A Universe
 item.contenttweaker.radiationlayer.name=Radiation Layer
 item.contenttweaker.pressurelayer.name=Pressure Layer
-tile.contenttweaker.excitationcoil.name=Excitation Coil
+item.contenttweaker.excitationcoil.name=Excitation Coil
 item.contenttweaker.unpreparedspacehelmet.name=Unprepared Space Helmet
 item.contenttweaker.unpreparedspacechestpiece.name=Unprepared Space Chestpiece
 item.contenttweaker.unpreparedspaceleggings.name=Unprepared Space Leggings
@@ -126,7 +125,7 @@ item.contenttweaker.endstonedust.name=Endstone Dust
 item.contenttweaker.lapisarmorplate.name=Heavy Lapis Plate
 item.contenttweaker.carbonarmorplate.name=Heavy Carbon Plate
 item.contenttweaker.redstonearmorplate.name=Heavy Redstone Plate
-tile.contenttweaker.block_dust.name=Dust Block
+item.contenttweaker.block_dust.name=Dust Block
 item.contenttweaker.blazepowder.name=Blaze Powder
 item.contenttweaker.grainsofinnocence.name=Grains Of Innocence
 
@@ -203,7 +202,7 @@ item.contenttweaker.ultimate_gem.name=Ultimate Gem
 
 item.contenttweaker.dragonlairdata.name=Dragon Lair Data
 item.contenttweaker.witherrealmdata.name=Wither Realm Data
-tile.contenttweaker.denseoilshale.name=Dense Oilsands Ore
+item.contenttweaker.denseoilshale.name=Dense Oilsands Ore
 item.contenttweaker.impossiblerealmdata.name=Impossible Realm Data
 item.contenttweaker.sentientgear.name=Sentient Gear Core
 item.contenttweaker.lairoftheclockworkkingdata.name=Lair Of The Clockwork King Data
@@ -213,25 +212,17 @@ item.contenttweaker.stellarcreationdata.name=Stellar Creation Data
 item.contenttweaker.densehydrogen.name=Dense Hydrogen
 item.contenttweaker.ultradensehydrogen.name=Ultra Dense Hydrogen
 
-tile.contenttweaker.microverse_casing.name=Microverse Projector Casing
-tile.contenttweaker.microverse_vent.name=Microverse Projector Vent
 
-item.contenttweaker.eightsmore.name=EightS'more OctoS'mingot
-item.contenttweaker.sixteensmore.name=SixteenS'more HexadecaS'mingot
-item.contenttweaker.thirtytwosmore.name=Half-stack-o'-S'more TriacontadyoS'mingot
-item.contenttweaker.sixtyfoursmore.name=Stack-o'-S'more HexecontatessaraS'mingot
 
-item.contenttweaker.hand_framing_tool.name=Hand Framing Tool
 
-item.contenttweaker.hand_framing_tool.desc1=Frame your tools by hand!
-item.contenttweaker.hand_framing_tool.desc2=The Hand Framing Tool lets you frame drawers already placed in the world.
-item.contenttweaker.hand_framing_tool.desc3=To do this, the tool itself needs to be framed in a crafting table. See the item's crafting table recipes in JEI.
-item.contenttweaker.hand_framing_tool.desc4=Then, once the tool is framed, right clicking any drawers in-world will frame them.
-item.contenttweaker.hand_framing_tool.desc5=Optionally, the tool can be filled with sticks using the crafting table recipe. Up to a stack of sticks will be consumed from each slot.
-item.contenttweaker.hand_framing_tool.desc6=The tool can then be used to convert existing unframed drawers into framed drawers, consuming 8 sticks to do so.
 
-item.contenttweaker.pulsatingdust.name=Pulsating Dust
-item.contenttweaker.pulsatingmesh.name=Pulsating Mesh
 
-tile.contenttweaker.simulation_casing.name=Naquadah-Plated Dark Steel Machine Casing
-tile.contenttweaker.simulation_casing_2.name=Naquadah Machine Casing
+
+
+
+
+
+
+
+
+
