@@ -2,6 +2,8 @@
 
 [Nomifactory](https://github.com/Nomifactory/Nomifactory) 的汉化资源包
 
+本资源包来自贴吧 @SPEARAHEAD 的 Onmifactory1.2.2 社区版汉化包，未针对 Nomifactory 校对，任务内容可能会出现偏差
+
 ## 安装
 
 下载  [`nomifactory-vX.X.X-redux-client.zip`](https://github.com/Nomifactory/Nomifactory/releases)
