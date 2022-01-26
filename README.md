@@ -1,4 +1,4 @@
-# Nomifactory-zh_cn
+# Nomifactory-zh_CN
 
 [Nomifactory](https://github.com/Nomifactory/Nomifactory) 的汉化资源包
 

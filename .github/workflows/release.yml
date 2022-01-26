@@ -22,7 +22,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           cd nomifactory-zh_cn
-          sed -e "s/\$DATE/$(date +%Y%m%d)/" pack.mcmeta
+          sed -i "s/\$DATE/$(date +%Y%m%d)/" pack.mcmeta
           zip -r nomifactory-zh_cn.zip .
             
       - name: "Upload releases"
