@@ -18,4 +18,4 @@
 
 ## FAQ
 
-- 由于本仓库可能无法及时与 Nomifactory 同步更新，故只保留翻译后的文本，原英文文本可从 [`nomifactory-vX.X.X-lang.zip`](https://github.com/Nomifactory/Nomifactory/releases) 获取
+- 由于本仓库可能无法及时与 Nomifactory 同步更新，故只保留翻译后的文本，原英文文本可从 [`nomifactory-vX.X.X-lang.zip`](https://github.com/Nomifactory/Nomifactory/releases) 及 [`nomifactory-dev-xxxxxxx-lang`](https://nightly.link/Nomifactory/Nomifactory/workflows/nightly/dev) 获取
