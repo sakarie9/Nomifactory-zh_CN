@@ -6,12 +6,16 @@
 
 ## 安装
 
-下载  [`nomifactory-vX.X.X-redux-client.zip`](https://github.com/Nomifactory/Nomifactory/releases)
+下载  [`nomifactory-vX.X.X-client.zip`](https://github.com/Nomifactory/Nomifactory/releases)
 
 导入 multimc 等启动器安装
 
 ## 汉化
 
-下载  [`nomifactory-zh_cn.zip`](https://github.com/xzsk2/Nomifactory-zh_cn/releases)
+下载  [`nomifactory-zh_cn.zip`](https://github.com/xzsk2/Nomifactory-zh_cn/releases) 
 
-放入资源包文件夹并加载
+放入 `resourcepacks` 文件夹内并在游戏内载入资源包
+
+## FAQ
+
+- 由于本仓库可能无法及时与 Nomifactory 同步更新，故只保留翻译后的文本，原英文文本可从 [`nomifactory-vX.X.X-lang.zip`](https://github.com/Nomifactory/Nomifactory/releases) 获取
