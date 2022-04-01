@@ -30,6 +30,18 @@ nomifactory.quest.line.6.desc=欢迎来到§5Nomifactory§f，我是你的向导
 nomifactory.quest.line.7.title=探索微型宇宙
 nomifactory.quest.line.7.desc=开始尝试§b更多实用设备§b§f与§b合成拓展§f模组。%n%n征服末地或钻研§bEnderIO§k§f来取得传送技术。%n%n建造火箭，飞上月球。（可选，但这任务很好玩）%n%n无论如何，是时候探索§e微型宇宙§f了。
 
+# line 8
+nomifactory.quest.line.8.title=聚变之乐趣
+nomifactory.quest.line.8.desc=用甜甜圈似的聚变反应堆来为你的基地提供能量且创造新的元素!
+
+# line 9
+nomifactory.quest.line.9.title=模拟资源
+nomifactory.quest.line.9.desc=使用§b深度怪物模拟§r生成资源!%n%n在MV中进行生产循环，以获得100%可再生资源!
+
+# line 10
+nomifactory.quest.line.10.title=物质-能量
+nomifactory.quest.line.10.desc=使用§bApplied Energistics2§r进行物质与能量的转化。%n%n自动化所有的东西!o/
+
 # db 0
 nomifactory.quest.db.0.title=充能石英
 nomifactory.quest.db.0.desc=这个设备的主要目的是把§赛特斯石英水晶§r转化为§6充能赛特斯石英水晶§r。%n%n这个设备可以使用能量导管充入RF能量或者使用ME导管/ME线缆从网络输入AE能量。%n%n它可以从两面充能。猜猜是哪两面？%n%n%n%n%n%n%n%n%n猜对了，是上下两端。%n%n
@@ -3136,7 +3148,7 @@ nomifactory.quest.db.775.desc=§多方块机器修改§r为所有§格雷科技�
 
 # db 776
 nomifactory.quest.db.776.title=觉醒核心
-nomifactory.quest.db.776.desc=§6觉悟核心§6§r是§b龙之进化§r核心的第三层，是终局配方的常见组成部分。这些核心是用§6觉醒龙锭§r制造的，制造成本为§e3亿RF§r。
+nomifactory.quest.db.776.desc=§6觉醒核心§6§r是§b龙之进化§r核心的第三层，是终局配方的常见组成部分。这些核心是用§6觉醒龙锭§r制造的，制造成本为§e3亿RF§r。
 
 # db 777
 nomifactory.quest.db.777.title=充能钻石齿轮
@@ -3268,11 +3280,11 @@ nomifactory.quest.db.808.desc=§5全能工厂§r的官方Discord群组是一个�
 
 # db 809
 nomifactory.quest.db.809.title=超级模拟电脑
-nomifactory.quest.db.809.desc=§3超级模拟电脑§r是一个多方块结构，执行§3模拟室§b深度怪物学习§r模拟，但能够超频这些模拟难以置信的速度。%n%这些结构都不能更有效地执行数百个单独的模拟室的等效工作。这将使它更容易生成原始物质，你需要的东西，如§6飞龙定居点数据§r。你可能需要几个§3战利品制造器§r才能跟上进度。您放置在输入总线中的数据模型将增加迭代计数并升级，就像它在一个常规的模拟室中运行一样。§e超频并不会改变原始物质产生的机会§r:那些在基于数据模型级别的每次迭代中以固定速率出现的机会。训练一个新的数据模型到30%的自我意识率可以很快完成。%n%n作为一个§d创造等级§r结构，它制作起来非常昂贵。然而，这是一项投资，随着你进入游戏的最后阶段，它将很容易为自己带来回报。你应该强烈考虑用你的第二颗宇宙之心制作一个这样的东西
+nomifactory.quest.db.809.desc=§3超级模拟电脑§r是一个多方块结构，执行§3模拟室&r进行§b深度怪物学习§r模拟，但能够超频这些模拟难以置信的速度。%n%这些结构都不能更有效地执行数百个单独的模拟室的等效工作。这将使它更容易生成原始物质，你需要的东西，如§6飞龙定居点数据§r。你可能需要几个§3战利品制造器§r才能跟上进度。您放置在输入总线中的数据模型将增加迭代计数并升级，就像它在一个常规的模拟室中运行一样。§e超频并不会改变原始物质产生的机会§r:那些在基于数据模型级别的每次迭代中以固定速率出现的机会。训练一个新的数据模型到30%的自我意识率可以很快完成。%n%n作为一个§d创造等级§r结构，它制作起来非常昂贵。然而，这是一项投资，随着你进入游戏的最后阶段，它将很容易为自己带来回报。你应该强烈考虑用你的第二颗宇宙之心制作一个这样的东西
 
 # db 810
 nomifactory.quest.db.810.title=硫
-nomifactory.quest.db.810.desc=在即将接触到的各种化学反应中都需要用到§6硫§r。%n%n电解§6闪锌矿粉§r（同时会产出§6镓§r）、§6朱砂粉§r或§6黄铁矿粉§r均可制取硫。此外，亦可通过§b深度怪物学习§r来获取硫——如果你尚未涉足这一领域，“资源出产靠模拟”任务线可以助你一臂之力。
+nomifactory.quest.db.810.desc=在即将接触到的各种化学反应中都需要用到§6硫§r。%n%n电解§6闪锌矿粉§r（同时会产出§6镓§r）、§6朱砂粉§r或§6黄铁矿粉§r均可制取硫。此外，亦可通过§b深度怪物学习§r来获取硫——如果你尚未涉足这一领域，“模拟资源”任务线可以助你一臂之力。
 
 # db 811
 nomifactory.quest.db.811.title=硫矿石
