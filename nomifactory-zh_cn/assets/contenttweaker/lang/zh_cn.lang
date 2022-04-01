@@ -212,6 +212,29 @@ item.contenttweaker.stellarcreationdata.name=恒星创造数据
 item.contenttweaker.densehydrogen.name=富集氢
 item.contenttweaker.ultradensehydrogen.name=超富集氢
 
+tile.contenttweaker.microverse_casing.name=微宇宙投影仪外壳
+tile.contenttweaker.microverse_vent.name=微宇宙投影仪通风管
+
+item.contenttweaker.eightsmore.name=8层饼干夹烤棉花糖
+item.contenttweaker.sixteensmore.name=16层饼干夹烤棉花糖
+item.contenttweaker.thirtytwosmore.name=32层饼干夹烤棉花糖
+item.contenttweaker.sixtyfoursmore.name=64层饼干夹烤棉花糖
+
+item.contenttweaker.hand_framing_tool.name=掌上镶框工具
+
+item.contenttweaker.hand_framing_tool.desc1=在掌上镶框你的工具!
+item.contenttweaker.hand_framing_tool.desc2=掌上镶框工具使你的镶框抽屉放置在世界中
+item.contenttweaker.hand_framing_tool.desc3=要做到这个，工具本身需要被镶框在一个合成表。在JEI中可以看到物品的合成表配方。
+item.contenttweaker.hand_framing_tool.desc4=然后，一旦工具被镶框起来，右击世界中的任何抽屉就会镶框起来。
+item.contenttweaker.hand_framing_tool.desc5=可选的是，该工具可以使用合成表配方填充木棍。每个插槽最多消耗一组木棍。
+item.contenttweaker.hand_framing_tool.desc6=该工具可以用来将现有的无框架抽屉转换为有框架的抽屉，消耗8个木棍来做到这一点。
+
+item.contenttweaker.pulsatingdust.name=脉动之尘
+item.contenttweaker.pulsatingmesh.name=脉动网格
+
+tile.contenttweaker.simulation_casing.name=镀硅岩的玄钢外壳
+tile.contenttweaker.simulation_casing_2.name=硅岩机械外壳
+
 
 
 
